@@ -46,6 +46,6 @@ Lasciar raffreddare e servire spolverando lo strudel di mele con zucchero a velo
 
 ## references
 
-http://blog.giallozafferano.it/ricetteconamore/strudel-di-mele-con-pasta-frolla/
+[giallozafferano](http://blog.giallozafferano.it/ricetteconamore/strudel-di-mele-con-pasta-frolla/)
 
 
