@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>food protocols</title><link href="http://darosio.github.com/foodprotocols/" rel="alternate"></link><link href="http://darosio.github.com/foodprotocols/feeds/cakes.atom.xml" rel="self"></link><id>http://darosio.github.com/foodprotocols/</id><updated>2016-02-29T00:00:00+01:00</updated><entry><title>Strudel altoatesino</title><link href="http://darosio.github.com/foodprotocols/strudel-altoatesino.html" rel="alternate"></link><updated>2016-02-29T00:00:00+01:00</updated><author><name>daniele arosio</name></author><id>tag:darosio.github.com,2016-02-29:foodprotocols/strudel-altoatesino.html</id><summary type="html">&lt;h2&gt;Materials&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>food protocols</title><link href="http://darosio.github.com/foodprotocols/" rel="alternate"></link><link href="http://darosio.github.com/foodprotocols/feeds/cakes.atom.xml" rel="self"></link><id>http://darosio.github.com/foodprotocols/</id><updated>2016-02-29T00:00:00+01:00</updated><entry><title>Strudel altoatesino</title><link href="http://darosio.github.com/foodprotocols/strudel-altoatesino.html" rel="alternate"></link><updated>2016-02-29T00:00:00+01:00</updated><author><name>daniele arosio</name></author><id>tag:darosio.github.com,2016-02-29:foodprotocols/strudel-altoatesino.html</id><summary type="html">&lt;ol&gt;
+&lt;li&gt;Nella ciotola della planetaria &lt;strong&gt;impastare velocemente&lt;/strong&gt; burro,
+zucchero a velo e la scorza di limone fino a ottenere una massa
+omogenea.&lt;/li&gt;
+&lt;li&gt;Aggiungere uovo (e tuorlo), latte, farina, lievito e un pizzico di
+sale senza lavorare troppo l’impasto.&lt;/li&gt;
+&lt;li&gt;Ricoprire con pellicola trasparente e lasciare riposare in
+frigorifero per almeno mezz’ora.&lt;/li&gt;
+&lt;li&gt;Ammollare l’uvetta nel rum.&lt;/li&gt;
+&lt;li&gt;In una padella abbrustolire il pane grattugiato con un filo di burro.&lt;/li&gt;
+&lt;li&gt;Sbucciare le mele e tagliarle a fettine sottili.&lt;/li&gt;
+&lt;li&gt;In una ciotola mescolare le mele, lo zucchero, l’uvetta con il rum,
+la cannella, la scorza di limone e i pinoli.&lt;/li&gt;
+&lt;li&gt;Stendere la pasta frolla su un foglio di carta da forno. &lt;/li&gt;
+&lt;li&gt;Coprire con uno strato di pan grattato abbrustolito, lasciando un
+leggero margine ai lati,&lt;/li&gt;
+&lt;li&gt;Continuare con la farcitura di mele &lt;/li&gt;
+&lt;li&gt;Arrotolare lo strudel su se stesso, &lt;/li&gt;
+&lt;li&gt;[Spennellarlo con un tuorlo d’uovo o del latte.]&lt;/li&gt;
+&lt;li&gt;Infornarlo a 180 °C per 30/35 minuti circa.&lt;/li&gt;
+&lt;li&gt;Lasciar raffreddare e servire spolverando lo strudel di mele con
+zucchero a velo&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Materials&lt;/h2&gt;
 &lt;h3&gt;Pasta frolla&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;250 g di farina 00&lt;/li&gt;
@@ -22,35 +45,6 @@
 &lt;li&gt;mezzo cucchiaino di cannella in polvere&lt;/li&gt;
 &lt;li&gt;la scorza grattugiata di un limone&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Methods&lt;/h2&gt;
-&lt;h3&gt;Pasta frolla&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Nella ciotola della planetaria &lt;strong&gt;impastare velocemente&lt;/strong&gt; burro,
-zucchero a velo e la scorza di limone fino a ottenere una massa
-omogenea.&lt;/li&gt;
-&lt;li&gt;Aggiungere uovo (e tuorlo), latte, farina, lievito e un pizzico di
-sale senza lavorare troppo l’impasto.&lt;/li&gt;
-&lt;li&gt;Ricoprire con pellicola trasparente e lasciare riposare in
-frigorifero per almeno mezz’ora.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;Ripieno&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Ammollare l’uvetta nel rum.&lt;/li&gt;
-&lt;li&gt;In una padella abbrustolire il pane grattugiato con un filo di burro.&lt;/li&gt;
-&lt;li&gt;Sbucciare le mele e tagliarle a fettine sottili.&lt;/li&gt;
-&lt;li&gt;In una ciotola mescolare le mele, lo zucchero, l’uvetta con il rum, la cannella, la scorza di limone e i pinoli.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;Montaggio&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Stendere la pasta frolla su un foglio di carta da forno. &lt;/li&gt;
-&lt;li&gt;Coprire con uno strato di pan grattato abbrustolito, lasciando un
-leggero margine ai lati,&lt;/li&gt;
-&lt;li&gt;Continuare con la farcitura di mele &lt;/li&gt;
-&lt;li&gt;Arrotolare lo strudel su se stesso, &lt;/li&gt;
-&lt;li&gt;[Spennellarlo con un tuorlo d’uovo o del latte.]&lt;/li&gt;
-&lt;li&gt;Infornarlo a 180 °C per 30/35 minuti circa.&lt;/li&gt;
-&lt;li&gt;Lasciar raffreddare e servire spolverando lo strudel di mele con
-zucchero a velo&lt;/li&gt;
-&lt;/ol&gt;
 &lt;h2&gt;references&lt;/h2&gt;
-&lt;p&gt;&lt;a href="http://blog.giallozafferano.it/ricetteconamore/strudel-di-mele-con-pasta-frolla/"&gt;giallozafferano&lt;/a&gt;&lt;/p&gt;</summary><category term="apples"></category></entry></feed>
+&lt;p&gt;&lt;a href="http://blog.giallozafferano.it/ricetteconamore/strudel-di-mele-con-pasta-frolla/"&gt;Giallo Zafferano&lt;/a&gt;
+- &lt;a href="http://imenudibenedetta.blogspot.it/2013/01/strudel-di-frolla-alle-mele.html"&gt;I Menú di Benedetta&lt;/a&gt;&lt;/p&gt;</summary><category term="apples"></category></entry></feed>
