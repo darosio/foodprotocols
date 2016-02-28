@@ -1,6 +1,7 @@
 Title: Strudel altoatesino
 Date: 2016-02-29
 Category: cakes
+Tags: apples
 
 ## Materials
 
