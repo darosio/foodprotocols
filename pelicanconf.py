@@ -13,7 +13,7 @@ TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'en'
 
 # THEME
-THEME = 'pelican-octopress-theme/'
+THEME = '../pelican-octopress-theme/'
 # THEME = 'themes/w3-personal-blog'
 
 # THEME = 'themes/svbhack'

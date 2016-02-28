@@ -28,21 +28,35 @@ Category: cakes
 
 ## Methods
 
-Nella ciotola della planetaria impastare velocemente il burro a temperatura ambiente, lo zucchero a velo e la scorza di limone fino a ottenere una massa omogenea.
-Aggiungere l’uovo, il latte, la farina, il lievito e un pizzico di sale senza lavorare troppo l’impasto.
-Ricoprire con pellicola trasparente e lasciare riposare in frigorifero per almeno mezz’ora.
-Se non disponete di una planetaria, potete ovviamente preparare la pasta frolla a mano lavorandola il meno possibile.
+### Pasta frolla
 
-Nel frattempo ammollare l’uvetta nel rum.
-Sbucciare le mele e tagliarle a fettine sottili.
-In una padella abbrustolire il pane grattugiato con un filo di burro.
-In una ciotola mescolare le mele, lo zucchero, l’uvetta con il rum, la cannella, la scorza di limone e i pinoli.
+1. Nella ciotola della planetaria **impastare velocemente** burro,
+zucchero a velo e la scorza di limone fino a ottenere una massa
+omogenea.
+2. Aggiungere uovo (e tuorlo), latte, farina, lievito e un pizzico di
+sale senza lavorare troppo l’impasto.
+3. Ricoprire con pellicola trasparente e lasciare riposare in
+frigorifero per almeno mezz’ora.
 
-Strudel di mele con pasta frolla appena sfornatoA questo punto estrarre la pasta frolla dal frigorifero e stenderla su un foglio di carta da forno.
-Coprire con uno strato di pan grattato abbrustolito e, lasciando un leggero margine ai lati, continuare con la farcitura di mele.
-Arrotolare lo strudel su se stesso, spennellarlo con un tuorlo d’uovo (o del latte) e infornarlo a 180 °C per 30/35 minuti circa.
 
-Lasciar raffreddare e servire spolverando lo strudel di mele con zucchero a velo, meglio se accompagnato con della panna fresca appena montata.
+### Ripieno
+
+4. Ammollare l’uvetta nel rum.
+5. In una padella abbrustolire il pane grattugiato con un filo di burro.
+6. Sbucciare le mele e tagliarle a fettine sottili.
+7. In una ciotola mescolare le mele, lo zucchero, l’uvetta con il rum, la cannella, la scorza di limone e i pinoli.
+
+### Montaggio
+
+8. Stendere la pasta frolla su un foglio di carta da forno. 
+9. Coprire con uno strato di pan grattato abbrustolito, lasciando un
+leggero margine ai lati,
+10. Continuare con la farcitura di mele 
+11. Arrotolare lo strudel su se stesso, 
+12. [Spennellarlo con un tuorlo d’uovo o del latte.]
+13. Infornarlo a 180 °C per 30/35 minuti circa.
+14. Lasciar raffreddare e servire spolverando lo strudel di mele con
+zucchero a velo
 
 ## references
 
