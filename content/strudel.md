@@ -7,7 +7,7 @@ Tags: apples
 1. Nella ciotola della planetaria **impastare velocemente** burro,
 zucchero a velo e la scorza di limone fino a ottenere una massa
 omogenea.
-2. Aggiungere uovo (e tuorlo), latte, farina, lievito e un pizzico di
+2. Aggiungere uovo (e un tuorlo), latte, farina, lievito e un pizzico di
 sale senza lavorare troppo l’impasto.
 3. Ricoprire con pellicola trasparente e lasciare riposare in
 frigorifero per almeno mezz’ora.
