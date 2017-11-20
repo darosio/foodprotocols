@@ -10,4 +10,5 @@ Tags: castagne zucca
 70  gr pangrattato
 2 tuorli
 1 cucchiaio evo
-noce moscata - sale - pepe
+noce moscata - 
+sale - pepe
