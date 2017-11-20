@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>food protocols</title><link href="http://darosio.github.com/foodprotocols/" rel="alternate"></link><link href="http://darosio.github.com/foodprotocols/feeds/primi.atom.xml" rel="self"></link><id>http://darosio.github.com/foodprotocols/</id><updated>2016-04-12T00:00:00+02:00</updated><entry><title>Gnocchi all'ossolana</title><link href="http://darosio.github.com/foodprotocols/gnocchi-allossolana.html" rel="alternate"></link><updated>2016-04-12T00:00:00+02:00</updated><author><name>daniele arosio</name></author><id>tag:darosio.github.com,2016-04-12:foodprotocols/gnocchi-allossolana.html</id><summary type="html">&lt;p&gt;500 gr zucca
+<feed xmlns="http://www.w3.org/2005/Atom"><title>food protocols - primi</title><link href="http://darosio.github.com/foodprotocols/" rel="alternate"></link><link href="http://darosio.github.com/foodprotocols/feeds/primi.atom.xml" rel="self"></link><id>http://darosio.github.com/foodprotocols/</id><updated>2016-04-12T00:00:00+02:00</updated><entry><title>Gnocchi all'ossolana</title><link href="http://darosio.github.com/foodprotocols/gnocchi-allossolana.html" rel="alternate"></link><published>2016-04-12T00:00:00+02:00</published><updated>2016-04-12T00:00:00+02:00</updated><author><name>daniele arosio</name></author><id>tag:darosio.github.com,2016-04-12:/foodprotocols/gnocchi-allossolana.html</id><summary type="html">&lt;p&gt;500 gr zucca
 500 gr patate
 120 gr castagne
 100 gr farina 
 70  gr pangrattato
 2 tuorli
 1 cucchiaio evo
-noce moscata - sale - pepe&lt;/p&gt;</summary><category term="castagne zucca"></category></entry></feed>
+noce moscata - &lt;/p&gt;
+&lt;p&gt;sale - pepe&lt;/p&gt;</summary><content type="html">&lt;p&gt;500 gr zucca
+500 gr patate
+120 gr castagne
+100 gr farina 
+70  gr pangrattato
+2 tuorli
+1 cucchiaio evo
+noce moscata - &lt;/p&gt;
+&lt;p&gt;sale - pepe&lt;/p&gt;</content><category term="castagne zucca"></category></entry></feed>
