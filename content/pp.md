@@ -1,4 +1,3 @@
-
 Title: Torta di Focaccia
 Date: 2017-11-21
 Category: cakes
