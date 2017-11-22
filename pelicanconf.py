@@ -63,7 +63,7 @@ SEARCH_BOX = True
 
 #Github include settings
 GITHUB_USER = 'darosio'
-GITHUB_REPO_COUNT = 1
+GITHUB_REPO_COUNT = 0
 GITHUB_SKIP_FORK = True
 GITHUB_SHOW_USER_LINK = True
 
