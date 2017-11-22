@@ -19,8 +19,6 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-THEME = '../pelican-octopress-theme/'
-
 # Blogroll
 # LINKS = (('Pelican', 'http://getpelican.com/'),
          # ('Python.org', 'http://python.org/'),
@@ -33,8 +31,20 @@ THEME = '../pelican-octopress-theme/'
 
 DEFAULT_PAGINATION = 10
 
-PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ['org_pandoc_reader']
+# Title menu options
+MENUITEMS = [('Archives', 'archives.html')]
+
+STATIC_PATHS = ['images', 'figures', 'downloads']
+
+THEME = 'pelican-octopress-theme/'
+
+PLUGIN_PATHS = ['../pelican-plugins', 'plugins']
+PLUGINS = ['org_pandoc_reader', 'summary',
+           'liquid_tags.include_code',
+           'liquid_tags.literal',
+           'ipynb.markup',
+           'render_math']
+
 
 # ORG_READER_EMACS_LOCATION = '/usr/bin/emacs'
 
