@@ -38,11 +38,10 @@ STATIC_PATHS = ['images', 'figures', 'downloads']
 
 THEME = 'pelican-octopress-theme/'
 
-PLUGIN_PATHS = ['../pelican-plugins', 'plugins']
+PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['org_pandoc_reader', 'summary',
            'liquid_tags.include_code',
            'liquid_tags.literal',
-           'ipynb.markup',
            'render_math']
 
 
