@@ -1,8 +1,6 @@
 #+DATE: 2017-11-27 06:45
-#+PROPERTY: STATUS draft
 #+PROPERTY: SLUG falafel
 #+PROPERTY: TAGS veg
-
 #+TITLE: Falafel di ceci
 
 
