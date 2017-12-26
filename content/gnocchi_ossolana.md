@@ -1,7 +1,7 @@
 Title: Gnocchi all'ossolana
 Date: 2016-04-12
-Category: primi
-Tags: castagne zucca
+Category: Primi
+Tags: castagne, zucca
 
 500 gr zucca
 500 gr patate

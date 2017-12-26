@@ -1,0 +1,26 @@
+#+TITLE: Ravioli integrali salmone e ricotta
+#+DATE: 2017-12-25 22:18
+#+PROPERTY: SLUG ravioli_salmone
+#+PROPERTY: TAGS primi
+
+
+** Materials
+
+- 125 g farina 00
+- 125 g farina integrale
+- 2 uova
+- 1 pizzico di sale
+- 1 cucchiaio di olio di oliva
+- 1-2 cucchiai di acqua
+
+*** ripeno
+    - 250 g salmone
+    - 170 g ricotta
+    - timo
+    - pepe
+    - noce moscata?
+   
+** references
+
+h a afttps://zondaccio.wordpress.com/2014/02/27/ravioli-norvegesi/
+http://www.fattoriadelgiglio.com/ricette/come-preparare-bollito-carne-di-manzo
