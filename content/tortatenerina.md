@@ -3,7 +3,7 @@ Date: 2016-02-29
 Category: cakes
 Tags: chocolate
 
-1. Ppezzettate il cioccolato fondente e mettetelo a sciogliere a
+1. Spezzettate il cioccolato fondente e mettetelo a sciogliere a
 bagnomaria fino a che divenga cremoso e liscio.
 2. Tagliate il burro freddo a cubetti e aggiungetelo 2 cubetti alla
 volta al cioccolato fuso ancora sul fuoco, avendo cura di farlo
@@ -29,12 +29,7 @@ versateci dentro l’impasto della torta in modo uniforme.
 spegnete il forno, e lasciate raffreddare la torta tenendo lo sportello
 del forno socchiuso.
 9. Il tocco finale della torta tenerina è una bella spolverizzata di
-zpucchero a velo o di cacao amaro in polvere!
-
-
-*al posto dei 3 cucchiai di latte, potete aggiungere 1 altro uovo medio
-- potete sostituire la farina con del cacao amaro, aggiungendo anche
-altri due cucchiai di zucchero (per contrastare l'amaro del cacao)*
+zucchero a velo o di cacao amaro in polvere!
 
 
 ## Materials
@@ -42,11 +37,12 @@ altri due cucchiai di zucchero (per contrastare l'amaro del cacao)*
 * Cioccolato fondente di ottima qualità 200 gr
 * Uova medie 3
 * Zucchero 150 g
-* Farina 60 g
+* Farina 30 g
+* Cacao 30 g
 * Latte 3 cucchiai
 * Sale 1 pizzico
 * Burro 100 g
 
-## references
+## References
 
 [Giallo Zafferano](http://ricette.giallozafferano.it/Torta-tenerina.html)
