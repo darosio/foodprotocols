@@ -3,7 +3,7 @@ Date: 2016-02-29
 Category: cakes
 Tags: chocolate
 
-1. Spezzettate il cioccolato fondente e mettetelo a sciogliere a
+1. Ppezzettate il cioccolato fondente e mettetelo a sciogliere a
 bagnomaria fino a che divenga cremoso e liscio.
 2. Tagliate il burro freddo a cubetti e aggiungetelo 2 cubetti alla
 volta al cioccolato fuso ancora sul fuoco, avendo cura di farlo
