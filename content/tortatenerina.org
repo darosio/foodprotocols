@@ -1,5 +1,7 @@
-Title: Torta tenerina di Ferrara Date: 2016-02-29 Category: cakes Tags:
-chocolate
+#+Title: Torta tenerina di Ferrara
+#+Date: 2016-02-29
+#+Category: cakes
+#+Tags: chocolate
 
 1. Spezzettate il cioccolato fondente e mettetelo a sciogliere a bagnomaria fino a che divenga cremoso e liscio.
 2. Tagliate il burro freddo a cubetti e aggiungetelo 2 cubetti alla volta al cioccolato fuso ancora sul fuoco, avendo cura di farlo assorbire bene prima di aggiungerne altro. Quando avrete disciolto tutto il burro, togliete il pentolino dal fuoco e lasciate intiepidire il composto.
