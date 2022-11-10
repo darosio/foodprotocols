@@ -35,7 +35,7 @@ jobs:
     # Build the book
     - name: Build the book
       run: |
-        pelican html
+        pelican
 
     # Push the book's HTML to github-pages
     - name: GitHub Pages action
