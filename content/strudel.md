@@ -54,6 +54,5 @@ zucchero a velo
 
 ## references
 
-[Giallo Zafferano](http://blog.giallozafferano.it/ricetteconamore/strudel-di-mele-con-pasta-frolla/)
-- [I Menú di Benedetta](http://imenudibenedetta.blogspot.it/2013/01/strudel-di-frolla-alle-mele.html)
-
+[Giallo Zafferano](http://blog.giallozafferano.it/ricetteconamore/strudel-di-mele-con-pasta-frolla/) -
+[I Menú di Benedetta](http://imenudibenedetta.blogspot.it/2013/01/strudel-di-frolla-alle-mele.html)
